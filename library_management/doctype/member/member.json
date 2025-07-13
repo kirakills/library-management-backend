@@ -1,0 +1,22 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Member",
+  "email": "mikemitiku033@gmail.com",
+  "membership_id": "MEMBER-001",
+  "modified": "2025-07-13 12:05:24.354369",
+  "name": "MEMBER-001",
+  "phone": "+251977405643",
+  "title": "mk"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Member",
+  "email": "michaelmitiku0@gmail.com",
+  "membership_id": "MEMBER-002",
+  "modified": "2025-07-13 16:18:54.811625",
+  "name": "MEMBER-002",
+  "phone": "",
+  "title": "Michael"
+ }
+]

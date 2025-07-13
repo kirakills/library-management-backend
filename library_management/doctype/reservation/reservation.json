@@ -1,0 +1,52 @@
+[
+ {
+  "book": "978-0345391803",
+  "docstatus": 0,
+  "doctype": "Reservation",
+  "member": "MEMBER-002",
+  "modified": "2025-07-13 16:19:28.736949",
+  "name": 2,
+  "reservation_date": "2025-07-13",
+  "status": "Pending"
+ },
+ {
+  "book": "978-0345391803",
+  "docstatus": 0,
+  "doctype": "Reservation",
+  "member": "MEMBER-002",
+  "modified": "2025-07-13 16:20:22.170132",
+  "name": 3,
+  "reservation_date": "2025-07-13",
+  "status": "Pending"
+ },
+ {
+  "book": "978-0345391803",
+  "docstatus": 0,
+  "doctype": "Reservation",
+  "member": "MEMBER-001",
+  "modified": "2025-07-13 17:03:15.388695",
+  "name": 4,
+  "reservation_date": "2025-07-13",
+  "status": "Fulfilled"
+ },
+ {
+  "book": "978-0618260274",
+  "docstatus": 0,
+  "doctype": "Reservation",
+  "member": "MEMBER-002",
+  "modified": "2025-07-13 17:03:47.600689",
+  "name": 5,
+  "reservation_date": "2025-07-13",
+  "status": "Pending"
+ },
+ {
+  "book": "978-0618260274",
+  "docstatus": 1,
+  "doctype": "Reservation",
+  "member": "MEMBER-002",
+  "modified": "2025-07-13 18:01:38.067678",
+  "name": 6,
+  "reservation_date": "2025-07-13",
+  "status": "Pending"
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "actual_return_date": null,
+  "book": "978-0345391803",
+  "docstatus": 0,
+  "doctype": "Loan",
+  "loan_date": "2025-07-13",
+  "member": "MEMBER-001",
+  "modified": "2025-07-13 17:03:13.804920",
+  "name": 30,
+  "return_date": "2025-07-13",
+  "status": "Active"
+ },
+ {
+  "actual_return_date": null,
+  "book": "978-0618260274",
+  "docstatus": 0,
+  "doctype": "Loan",
+  "loan_date": "2025-07-13",
+  "member": "MEMBER-001",
+  "modified": "2025-07-13 17:04:17.025696",
+  "name": 32,
+  "return_date": "2025-07-13",
+  "status": "Active"
+ },
+ {
+  "actual_return_date": null,
+  "book": "978-0441172719",
+  "docstatus": 1,
+  "doctype": "Loan",
+  "loan_date": "2025-07-13",
+  "member": "MEMBER-002",
+  "modified": "2025-07-13 17:13:05.674596",
+  "name": 34,
+  "return_date": "2025-07-13",
+  "status": "Active"
+ }
+]

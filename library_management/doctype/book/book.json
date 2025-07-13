@@ -1,0 +1,41 @@
+[
+ {
+  "author": "Douglas Adams",
+  "current_borrower": "MEMBER-001",
+  "current_reservation": "3",
+  "docstatus": 0,
+  "doctype": "Book",
+  "isbn": "978-0345391803",
+  "modified": "2025-07-13 17:03:15.347306",
+  "name": "978-0345391803",
+  "published_date": "1979-10-12",
+  "status": "On Loan",
+  "title": "The Hitchhiker's Guide to the Galaxy"
+ },
+ {
+  "author": "Frank Herbert",
+  "current_borrower": "MEMBER-002",
+  "current_reservation": null,
+  "docstatus": 0,
+  "doctype": "Book",
+  "isbn": "978-0441172719",
+  "modified": "2025-07-13 17:13:05.682473",
+  "name": "978-0441172719",
+  "published_date": "1965-08-01",
+  "status": "On Loan",
+  "title": "Dune"
+ },
+ {
+  "author": "J.R.R. Tolkien",
+  "current_borrower": "MEMBER-001",
+  "current_reservation": "6",
+  "docstatus": 0,
+  "doctype": "Book",
+  "isbn": "978-0618260274",
+  "modified": "2025-07-13 18:01:38.076058",
+  "name": "978-0618260274",
+  "published_date": "1954-06-29",
+  "status": "Reserved",
+  "title": "The Lord of the Rings"
+ }
+]
